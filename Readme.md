@@ -1,5 +1,5 @@
 # Youtube downloader
-Este es un proyecto de practica utilizando NodeJs y DiscordJs que permite obtener de archivo ".mp3" atravez de un bot de discord.
+Este es un proyecto de practica utilizando NodeJs y futuramente con DiscordJs que permitirá obtener de archivo ".mp3" atravez de un bot de discord.
 
 ## Instalación de dependencias 🔧
 
